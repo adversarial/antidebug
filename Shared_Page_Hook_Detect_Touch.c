@@ -1,8 +1,7 @@
-
-Created 3 years ago
-Code
-Revisions 1
-Edited shared page detection
+// Created 3 years ago
+// Code
+// Revisions 1
+// Edited shared page detection
 /*
 	// Another &nti trick using WinAPI [passive]
 	// by ~netrev
